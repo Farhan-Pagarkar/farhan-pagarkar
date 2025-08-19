@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Farhan Pagarkar</h1>
 <h3 align="center">A passionate data science and artificial intelligence enthusiast!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farhan-pagarkar&label=Profile%20views&color=0e75b6&style=flat" alt="farhan-pagarkar" /> </p>
+
 
 - 🔭 I’m currently working on **Property Price prediction using ML and DL**
 
