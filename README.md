@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **data science, AI/ML projects, and real-world property tech solutions**
 
-- 🤝 I’m looking for help with **deploying large-scale ML models efficiently (FastAPI, Docker, AWS, RAG systems)**
+- 🤝 I’m looking for help with **deploying large-scale ML models efficiently (FastAPI, Docker, AWS)**
 
 - 💬 Ask me about **Data visualization, data cleaning, predictive modelling, Regression, problem statements.**
 
